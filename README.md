@@ -53,12 +53,14 @@ streamlit run app.py
 ---
 
 ## Project Structure
+```
 ├── app.py                     # Streamlit app (UI + logic)
 ├── book_recommender.ipynb     # EDA and model development notebook
 ├── Books.csv                  # Book metadata
 ├── Users.csv                  # User data
 ├── Ratings.csv                # Rating data
 └── requirements.txt
+```
 
 ---
 
