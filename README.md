@@ -31,7 +31,7 @@ built with Python and Streamlit, deployed as an interactive web app.
 
 ## Dataset
 
-Using the [Book-Crossing Dataset](http://www2.informatik.uni-freiburg.de/~cziegler/BX/):
+Using the Book-Crossing Dataset:
 - **Books.csv** — 271K book records (title, author, ISBN, cover URL)
 - **Users.csv** — 278K anonymized users
 - **Ratings.csv** — 1.1M ratings (explicit + implicit)
