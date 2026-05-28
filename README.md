@@ -3,7 +3,7 @@
 A content-based and collaborative filtering book recommendation engine 
 built with Python and Streamlit, deployed as an interactive web app.
 
-🔗 **Live Demo:** https://huggingface.co/spaces/KaranCheemalapati/Book-Recommender-System
+🔗 **Live Demo:** [Click Here](https://huggingface.co/spaces/KaranCheemalapati/Book-Recommender-System)
 
 ---
 
